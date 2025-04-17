@@ -99,7 +99,10 @@
       <button onclick="goNext()">Próxima →</button>
     </div>
 
-    <button onclick="window.location.href='outros.html'">Verificar outras situações →</button>
+    <div style="display: flex; gap: 10px;">
+      <button onclick="window.location.href='outros.html'">Verificar outras situações →</button>
+      <button onclick="window.location.href='analise.html'">📊 Análise</button>
+    </div>
   </div>
 
   <!-- Seletor de Páginas -->
@@ -130,7 +133,7 @@
     }
 
     function updatePageSelector() {
-      pageSelector.innerHTML = ''; // Limpar os números antigos
+      pageSelector.innerHTML = '';
       pages.forEach((page, index) => {
         const pageNum = page.match(/\d+/)[0];
         const button = document.createElement("button");
