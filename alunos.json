@@ -15,18 +15,6 @@
     "nome": "ANDRÉ KAUAN MACEDO DE SOUZA",
     "foto": "ANDRÉ KAUAN MACEDO DE SOUZA.jpg"
   },
-  "7": {
-    "nome": "CHRISTYAN MIGUEL MUNIZ DE OLIVEIRA",
-    "foto": "CHRISTYAN MIGUEL MUNIZ DE OLIVEIRA.jpg"
-  },
-  "9": {
-    "nome": "DÉBORA LUANA DA SILVA",
-    "foto": "DÉBORA LUANA DA SILVA.jpg"
-  },
-  "11": {
-    "nome": "GABRIEL REIS MARTINS",
-    "foto": "GABRIEL REIS MARTINS.jpg"
-  },
   "12": {
     "nome": "GABRIELLE VICTORIA FERREIRA",
     "foto": "GABRIELLE VICTORIA FERREIRA.jpg"
@@ -47,10 +35,6 @@
     "nome": "JUAN HENRIQUE DE CARVALHO",
     "foto": "JUAN HENRIQUE DE CARVALHO.jpg"
   },
-  "19": {
-    "nome": "JÚLIA NICOLY TEIXEIRA",
-    "foto": "JÚLIA NICOLY TEIXEIRA.jpg"
-  },
   "21": {
     "nome": "LARA REIS DE OLIVEIRA",
     "foto": "LARA REIS DE OLIVEIRA.jpg"
@@ -58,10 +42,6 @@
   "22": {
     "nome": "LAURA BUZATO OLIVEIRA",
     "foto": "LAURA BUZATO OLIVEIRA.jpg"
-  },
-  "23": {
-    "nome": "LETÍCIA SILVA ALVES",
-    "foto": "LETÍCIA SILVA ALVES.jpg"
   },
   "24": {
     "nome": "LUCAS DONISETI LASARINO",
@@ -111,18 +91,6 @@
     "nome": "THAYLA EDUARDA MOTERANI DA SILVA",
     "foto": "THAYLA EDUARDA MOTERANI DA SILVA.jpg"
   },
-  "37": {
-    "nome": "WÁLISSON ARAUJO JULIARI",
-    "foto": "WÁLISSON ARAUJO JULIARI.jpg"
-  },
-  "38": {
-    "nome": "WARLEY RIQUELME DA SILVA",
-    "foto": "WARLEY RIQUELME DA SILVA.jpg"
-  },
-  "39": {
-    "nome": "WÉLLINGTON DE OLIVEIRA LIMA",
-    "foto": "WÉLLINGTON DE OLIVEIRA LIMA.jpg"
-  },
   "40": {
     "nome": "WENDEL ALEXSANDRO DOS SANTOS BENTO",
     "foto": "WENDEL ALEXSANDRO DOS SANTOS BENTO.jpg"
@@ -130,5 +98,13 @@
   "41": {
     "nome": "HENRIQUE EMANUEL TEODORO",
     "foto": "HENRIQUE EMANUEL TEODORO.jpg"
+  },
+  "42": {
+    "nome": "LAURA ISABELLY AMORIM",
+    "foto": "LAURA ISABELLY AMORIM.jpg"
+  },
+  "44": {
+    "nome": "ANA BEATRIZ AVANCINI",
+    "foto": "ANA BEATRIZ AVANCINI.jpg"
   }
 }
